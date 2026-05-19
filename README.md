@@ -17,23 +17,23 @@
 	2.  Behaviour of Negative/Neutral Sentiment Posts.
 # **PROJECT CODE EXPLANATION
 **Data Exploration**
-	1.	Read() 							– Read the csv format data from the file
-	2.	Info(), describe() dtype() 		– It is used to understand the datatype, missing values and statistical distribution of the data
-	3.	Isnull(), duplicates(), drop(), - It is used to find the null value in the column, to identify the duplicates of the data and to remove the duplicates in the data.
-	4.	Shape 							– To identify the shape of the data
-	5.	Size 							– To identify the total number of column in the data
-	6.	Fillna() 						– To fill the missing value in the data
-	7.	Value_counts()					– To check the repeated values.
-	8.	Unique(), nunique() 			– Show the unique value in the data
+1. Read() 							– Read the csv format data from the file
+2. Info(), describe() dtype() 		– It is used to understand the datatype, missing values and statistical distribution of the data
+3. Isnull(), duplicates(), drop(), - It is used to find the null value in the column, to identify the duplicates of the data and to remove the duplicates in the data.
+4. Shape 							– To identify the shape of the data
+5. Size 							– To identify the total number of column in the data
+6. Fillna() 						– To fill the missing value in the data
+7. Value_counts()					– To check the repeated values.
+8. Unique(), nunique() 			– Show the unique value in the data
 
 # **📊Data Visualization**
-	✔️ Line chart	- Daily Engagement Trends
-	✔️ Bar chart	- Post by Categoty
-	✔️ Pie Chart	- Gender Distribution
-	✔️ Histogram	- Age Distribution
-	✔️ Box Plot		- Engagement Rate
-	✔️ Count Plot	- Total distribution of post type
-	✔️ Violin Chart - Followers Vs Sentiment
+✔️ Line chart	- Daily Engagement Trends
+✔️ Bar chart	- Post by Categoty
+✔️ Pie Chart	- Gender Distribution
+✔️ Histogram	- Age Distribution
+✔️ Box Plot		- Engagement Rate
+✔️ Count Plot	- Total distribution of post type
+✔️ Violin Chart - Followers Vs Sentiment
 
 	
 
